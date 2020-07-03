@@ -1,0 +1,13 @@
+{
+  "name": "yapo-exercise-01",
+  "version": "1.0.0",
+  "description": "Ejercicio de prueba tecnica",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc index.ts"
+  },
+  "author": "Victor Mansilla",
+  "dependencies": {
+    "typescript": "^3.9.6"
+  }
+}
